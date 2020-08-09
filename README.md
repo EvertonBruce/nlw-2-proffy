@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo-proffy.png" width="220px" />
+    <img alt="Proffy" title="Proffy" src=".github/logo-proffy.PNG" />
+    <img alt="Proffy" title="Proffy" src=".github/mobile-proffy.PNG" />
+
 </h1>
 
 <p align="center">
@@ -44,6 +46,8 @@ Os alunos terão acesso a quais professores estão disponíveis nos horários qu
 Projeto desenvolvido durante a **NLW#2 - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
+
+<img alt="Proffy" title="Proffy" src=".github/proffys-disp.PNG" />
 
 ## 🔖 Layout
 
